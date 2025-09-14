@@ -1,4 +1,4 @@
-<!-- MVC? -git ->
+
 <!DOCTYPE html>
 <html lang="en">
 
